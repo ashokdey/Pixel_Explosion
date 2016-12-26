@@ -2,9 +2,9 @@
 #include <cmath>
 #include <cstdlib>
 #include <ctime>
-#include "Screen.hpp"
-#include "Particle.hpp"
-#include "Swarm.hpp"
+#include "headers/Screen.hpp"
+#include "headers/Particle.hpp"
+#include "headers/Swarm.hpp"
 
 
 int main(int argc, char **argv) {
