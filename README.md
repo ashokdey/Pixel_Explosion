@@ -3,7 +3,7 @@ This application is made using **SDL2** and **C++**.
 
 ###What it does?
 It draws the pixels on the screen with **_swirl animation_** with little amount of blur to make the animation smooth. 
-A sample video has been attached to the repository. Watch the video _**[here](particle_explosion.webm)**_
+A sample video has been attached to the repository. Watch the video _**[here](https://youtu.be/h1LhbyHl7dI)**_
 
 ####Tools Used
 * Visual Studio 2015 Community Edition. _**[Get it here](https://www.visualstudio.com/")**_
