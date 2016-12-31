@@ -17,6 +17,8 @@ A sample video has been attached to the repository. Watch the video _**[here](ht
 * Hit **Ctrl + F5**
 * Have Fun
 
+###Note:
+It uses the 64-bit libs and 64-bit compilier which you can set from the **Standard Toolbar** just below the **FILE** menu
 
 ####Simple Hacks
 If you're really very interested in changing the amination and the number of pixels then there are two files that are of your interest.
