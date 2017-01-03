@@ -27,7 +27,7 @@ It uses the 64-bit libs and 64-bit compilier which you can set from the **Standa
 ####Simple Hacks
 If you're really very interested in changing the amination and the number of pixels then there are two files that are of your interest.
 * Chaange the number of particles : _Head towards the file names as **Swarm.hpp** and change the value of **static const int NPARTICLES**. Currently it is set to **8000**_
-* Want to change the animation as well? : _Head towards the file **Particle.cpp**, change the value of **double literal** in the expression **direction += interval * double_literal**. The default value of the **double_literal is: 0.000688**
+* Want to change the animation as well? _Head towards the file **Particle.cpp**, inside the **update** function, change the value of **double literal** in the expression **direction += interval * double_literal**. The default value of the **double_literal is: 0.000688**_
 
 You can use it as a mini project. 
 Thanks
